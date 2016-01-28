@@ -49,4 +49,4 @@ Take a look at that swag!
 + Welcome to the wonderful world of eCommerce!
 
 
-<a href='https://learn.co/lessons/hs-flatiron-swag-store-for-real' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-flatiron-swag-store-for-real' title='Flatiron Swag Shop For REAL'>Flatiron Swag Shop For REAL</a> on Learn.co and start learning to code for free.</p>
